@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Yusaf-Ahmed/Yusaf-Ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there! 👋
 
 - 🔭 I’m currently working on a 2D Wave Game on Unity!
 - 🌱 I’m currently learning C# and i am soon learning Python.
